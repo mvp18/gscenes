@@ -12,7 +12,7 @@ Gaussian Scenes: Pose-Free Sparse-View Scene Reconstruction using Depth-Enhanced
 </h3>
 </p>
 
-<img src="assets/dg.svg" alt="Method" style="margin-bottom: 30px; margin-top: 20px;"/>
+<img src="assets/dg.jpg" alt="Method" style="margin-bottom: 30px; margin-top: 20px;"/>
 
 ### Implementation
 
